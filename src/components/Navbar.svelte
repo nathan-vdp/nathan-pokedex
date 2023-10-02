@@ -3,7 +3,7 @@
 </script>
 
 <nav
-  class="flex items-center justify-center rounded-md shadow-sm p-4 w-full bg-slate-700 text-slate-300 font-bold text-xl"
+  class="flex items-center justify-start rounded-md p-4 w-full text-slate-300 font-bold text-xl"
 >
-  <Link to="/">Pokedex</Link>
+  <Link to="/">Nathan's Pokedex</Link>
 </nav>

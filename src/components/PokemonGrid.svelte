@@ -23,9 +23,9 @@
         <p>Loading {pokemon.name}'s data...</p>
       {:then data}
         <Link to={`/${pokemon.name}`}>
-          <div class="flex flex-col rounded-md shadow-md p-9 bg-slate-700 text-slate-400 hover:bg-teal-500 hover:text-stone-900 text-xl">
+          <div class="flex flex-col rounded-md shadow-md p-10 bg-slate-700 text-slate-400 hover:bg-teal-500 hover:text-stone-900 text-xl">
             <img src={data.sprites.front_default} alt={pokemon.name} />
-            <h1 class="border-t-2 pt-2">{pokemon.name}</h1>
+            <h1 class="flex justify-center">{pokemon.name}</h1>
           </div>
         </Link>
       {/await}
