@@ -14,4 +14,4 @@ This website has:
 - When clicking on one of the cards it will go to a page where you can view the pokemon and there specific stats and what type of pokemon it is.
 
 ## View the pokedex here:
-[Nathan's pokedex](nathan-pokedex.vercel.app)
+[Nathan's pokedex](https://nathan-pokedex.vercel.app/)
